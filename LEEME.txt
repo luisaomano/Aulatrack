@@ -1,0 +1,2 @@
+AulaTrack
+Abrí index.html en un navegador moderno. No necesita servidor, conexión ni dependencias externas. También podés publicar los tres archivos web en GitHub Pages. Los datos se guardan en localStorage del navegador; exportá copias periódicamente. Las notas del boletín y las evaluaciones se calculan por separado. La tendencia compara la primera y última nota del historial. La aprobación es desde 5, y las notas admitidas son enteros del 1 al 10.
